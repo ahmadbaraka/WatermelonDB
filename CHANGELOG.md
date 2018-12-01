@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 ### New
 
 - [WIP] Sync primitives
+- Support caching for non-global IDs at Native level
 
 ## 0.9.0 - 2018-11-23
 
